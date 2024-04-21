@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  favicon: assets/favicon.png
   title: "TinyGap"
   navbar:
     left:
