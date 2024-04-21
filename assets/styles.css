@@ -1,16 +1,17 @@
 /* css styles */
 
-@media screen and (min-width: 401px) {
+@media screen and (min-width: 768px) {
     .center-cropped {
         object-fit: cover; 
         object-position: center; /* Center the image within the element */
         height: 600px;
         width: 800px;
         background-size: cover;
+        
       }
   }
 
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 767px) {
     .center-cropped {
         max-width: 100%;
       }
