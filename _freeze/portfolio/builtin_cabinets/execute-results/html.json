@@ -1,0 +1,15 @@
+{
+  "hash": "1783a9575ab53208b03809fec3f4ecbc",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Built-in Cabinets\ndescription: Creating effective static and interactive data visualisation.\nimage: ../assets/builtin-cabinet.jpg\nexecute: \n  freeze: auto\nformat:\n  html:\n    toc: false\n    code-link: true\n    toc-location: body\n---\n\n\nWith extensive experience in woodworking and carpentry, I specialize in crafting built-in cabinets and floating shelves – ingenious solutions that not only optimize storage but also infuse your living spaces with a touch of modern elegance. Feast your eyes on these photos showcasing the finished products I've meticulously crafted. If you have a vision for transforming your home, let's collaborate and bring your ideas to life. Together, we can create functional yet stylish storage solutions that elevate your living experience.\n\n\n::: {.cell}\n\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

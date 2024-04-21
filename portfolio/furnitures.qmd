@@ -1,0 +1,45 @@
+---
+title: Handmade furniture
+description: Bespoke handmade furniture
+image: ../assets/furniture/box.jpg
+execute: 
+  freeze: auto
+format:
+  html:
+    toc: false
+    code-link: true
+    toc-location: body
+---
+
+You know, I may not have any official furniture-making training under my belt, but I've definitely gotten my hands dirty crafting up some pretty intricate pieces over the years that I'm really proud of. If you've been kicking around ideas for some custom furniture to spruce up your place, I'd be more than happy to hear you out! Don't hesitate to run those visions by me - I'm always game to flex my woodworking muscles on unique projects like that for friends. Who knows, maybe we can collaborate and I can help bring your furniture dreams to life in a way that really speaks to your style. Just let me know what you've been thinking!
+
+```{=html}
+<div id="carouselExampleIndicators" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../assets/furniture/box.jpg" class="d-block center-cropped" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/furniture/chair.jpg" class="d-block center-cropped" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/furniture/platform_bed.jpg" class="d-block center-cropped" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```

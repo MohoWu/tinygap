@@ -1,0 +1,12 @@
+---
+title: Portfolio
+subtitle: Here are a selection of my past projects. You can click on them to learn more.
+listing:
+  contents: portfolio
+  type: grid
+  sort-ui: false
+  image-height: "200px"
+  grid-columns: 3
+page-layout: full
+---
+

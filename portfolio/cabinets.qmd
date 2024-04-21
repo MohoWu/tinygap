@@ -1,0 +1,48 @@
+---
+title: Built-in Cabinets
+description: Modern space saving solutions
+image: ../assets/alcove/builtin-cabinet.jpg
+execute: 
+  freeze: auto
+format:
+  html:
+    toc: false
+    code-link: true
+    toc-location: body
+---
+
+Hey friend, just to let you know I've gotten pretty handy at building custom cabinets and those slick floating shelves. They're such a great solution for opening up some space and giving your place a modern refresh. Check out these photos of some recent projects I've knocked out. If you've been kicking around ideas for revamping your space, hit me up and we can make it happen. No pressure, just thought I'd put that out there since I know how much you love home improvement projects!
+
+
+```{=html}
+<div id="carouselExampleIndicators" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../assets/alcove/builtin-cabinet.jpg" class="d-block center-cropped" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/alcove/shelf.jpg" class="d-block center-cropped" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/alcove/cabinet.jpg" class="d-block center-cropped" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/alcove/open.jpg" class="d-block center-cropped" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```

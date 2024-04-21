@@ -1,0 +1,12 @@
+/* css styles */
+.center-cropped {
+    object-fit: cover; 
+    object-position: center; /* Center the image within the element */
+    height: 600px;
+    width: 800px;
+    background-size: cover;
+  }
+
+  .navbar {
+    padding: 10px 16px;
+  }

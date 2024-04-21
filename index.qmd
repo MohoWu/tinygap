@@ -1,0 +1,21 @@
+---
+title: "TinyGap"
+about:
+  template: trestles
+  image: assets/logo.png
+  image-shape: round
+  links:
+    - icon: facebook
+      text: facebook
+      href: https://www.facebook.com/profile.php?id=61558627263855
+    - icon: whatsapp
+      text: whtasapp
+      href: https://api.whatsapp.com/send?phone=447531926269
+    - icon: envelope-at
+      text: email
+      href: mailto:no.fiveworkshop@gmail.com
+---
+
+Hello, friends! Hao here, the dude behind TinyGap Handyman Services. I'm your guy for all the home reno needs around Didcot. Need some slick new floors laid down? I got you. Patio looking drab? Let's pimp that space. Got a vision for some sweet custom woodwork? I'll make it happen. Or just tryna freshen things up with a new coat of paint? Say no more.
+
+Check out my [portfolio](portfolio.qmd) to see some of my past projects - that'll give you an idea of the fire I'm working with. I'm always down for some free quotes, so hit me up whenever and let me know what you're trying to get done. We'll get that project handled and have your place looking amazing! Let's get this reno party started!

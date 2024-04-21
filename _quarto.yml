@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "TinyGap"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: portfolio.qmd
+        text: Portfolio
+
+format:
+  html:
+    theme: lux
+    css: assets/styles.css
+    toc: true
+
+
+

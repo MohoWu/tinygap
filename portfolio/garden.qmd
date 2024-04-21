@@ -1,0 +1,43 @@
+---
+title: Garden Projects
+description: Woodworking related garden projects
+image: ../assets/garden/gate.jpg
+execute: 
+  freeze: auto
+format:
+  html:
+    toc: false
+    code-link: true
+    toc-location: body
+---
+
+Hey, you know gardening itself isn't really my forte, but if you've got any woodworking projects lined up for the yard, I'm absolutely your man! Need some new fence posts put in? I can tackle that no problem. Been wanting to build a shed for all your gardening tools and supplies? That's right up my alley. Or maybe you're looking to add a nice garden gate for a little curb appeal? I'd be happy to help bring your vision to life. Don't hesitate to run any outdoor carpentry projects by me. I'm always down to lend a hand for friends whenever I can!
+
+```{=html}
+<div id="carouselExampleIndicators" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../assets/garden/gate.jpg" class="d-block center-cropped" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/garden/post.jpg" class="d-block center-cropped" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/garden/shed.jpg" class="d-block center-cropped" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```
