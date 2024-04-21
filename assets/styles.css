@@ -1,11 +1,21 @@
 /* css styles */
-.center-cropped {
-    object-fit: cover; 
-    object-position: center; /* Center the image within the element */
-    height: 600px;
-    width: 800px;
-    background-size: cover;
+
+@media screen and (min-width: 401px) {
+    .center-cropped {
+        object-fit: cover; 
+        object-position: center; /* Center the image within the element */
+        height: 600px;
+        width: 800px;
+        background-size: cover;
+      }
   }
+
+  @media screen and (max-width: 400px) {
+    .center-cropped {
+        max-width: 100%;
+      }
+  }
+
 
   .navbar {
     padding: 10px 16px;
